@@ -1,0 +1,12 @@
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\bin\Debug\netcoreapp2.1\DotStarkTest.Data.deps.json
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\bin\Debug\netcoreapp2.1\DotStarkTest.Data.runtimeconfig.json
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\bin\Debug\netcoreapp2.1\DotStarkTest.Data.runtimeconfig.dev.json
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\bin\Debug\netcoreapp2.1\DotStarkTest.Data.dll
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\bin\Debug\netcoreapp2.1\DotStarkTest.Data.pdb
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\obj\Debug\netcoreapp2.1\DotStarkTest.Data.csproj.AssemblyReference.cache
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\obj\Debug\netcoreapp2.1\DotStarkTest.Data.AssemblyInfoInputs.cache
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\obj\Debug\netcoreapp2.1\DotStarkTest.Data.AssemblyInfo.cs
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\obj\Debug\netcoreapp2.1\DotStarkTest.Data.csproj.CoreCompileInputs.cache
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\obj\Debug\netcoreapp2.1\DotStarkTest.Data.dll
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\obj\Debug\netcoreapp2.1\DotStarkTest.Data.pdb
+D:\TestProjects\DotStarkTest\DotStarkTest.Data\obj\Debug\netcoreapp2.1\DotStarkTest.Data.genruntimeconfig.cache
